@@ -76,7 +76,6 @@ StudentsManagement/
    - `DB_PASSWORD`
    - `DB_NAME`
 
-   Never commit database passwords or other credentials to GitHub.
 
 ## Run the Application
 
